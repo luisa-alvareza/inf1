@@ -1,2 +1,2 @@
-# inf1
+# inf
 Created with CodeSandbox
